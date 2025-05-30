@@ -1,0 +1,14 @@
+Login page->(https://github.com/SakshiCs124/4AL22CS124_project/blob/main/Web_Project/Screenshot%202025-05-30%20054332.png)
+
+Adding products->(https://github.com/SakshiCs124/4AL22CS124_project/blob/main/Web_Project/Screenshot%202025-05-30%20054530.png)
+                 (https://github.com/SakshiCs124/4AL22CS124_project/blob/main/Web_Project/Screenshot%202025-05-30%20054552.png)
+
+Update products->(https://github.com/SakshiCs124/4AL22CS124_project/blob/main/Web_Project/Screenshot%202025-05-30%20054654.png)
+                 (https://github.com/SakshiCs124/4AL22CS124_project/blob/main/Web_Project/Screenshot%202025-05-30%20054716.png)
+
+Delete products->(https://github.com/SakshiCs124/4AL22CS124_project/blob/main/Web_Project/Screenshot%202025-05-30%20054949.png)
+                 (https://github.com/SakshiCs124/4AL22CS124_project/blob/main/Web_Project/Screenshot%202025-05-30%20055016.png)
+
+Product inventary->(https://github.com/SakshiCs124/4AL22CS124_project/blob/main/Web_Project/Screenshot%202025-05-30%20055049.png)
+
+Report Generation->(https://github.com/SakshiCs124/4AL22CS124_project/blob/main/Web_Project/Screenshot%202025-05-30%20055206.png)
